@@ -1020,7 +1020,6 @@ public abstract class ParserFactorySupport extends ProcessorSupport implements P
     /**
      * Creates an aggregation for a repeating record or group.
      * @param config the record or group configuration
-     * @param property the property component
      * @return the created {@link RecordAggregation}
      * @throws BeanIOConfigurationException
      */
